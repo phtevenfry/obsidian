@@ -1,0 +1,12 @@
+{
+  "obsidian-prism-theme@@color-schemes-lt": "pt-color-scheme-periwinkle-lt",
+  "obsidian-prism-theme@@color-scheme-style-lt": "pt-color-scheme-style-two-tone-and-border-lt",
+  "obsidian-prism-theme@@accent-style-lt": "pt-accent-style-borderandfilled-lt",
+  "obsidian-prism-theme@@light-accent-color-preset": "pt-accent-color-orange-lt",
+  "obsidian-prism-theme@@highlight-text-accent-lt": "pt-highlight-text-custom-lt",
+  "obsidian-prism-theme@@highlight-text-accent-custom-lt": "#840172",
+  "obsidian-prism-theme@@scroll-bar-size": 20,
+  "obsidian-prism-theme@@pt-status-bar-style": "pt-status-bar-position-fixed",
+  "obsidian-prism-theme@@pt-fixed-status-bar-align": "pt-fixed-status-bar-align-right",
+  "obsidian-prism-theme@@status-bar-text-color-lt": "pt-status-bar-text-accent-lt"
+}
