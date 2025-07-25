@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Typewriter",
+  "theme": "obsidian",
+  "accentColor": "#5cc2f5",
+  "baseFontSizeAction": true,
+  "textFontFamily": "Chalkduster",
+  "interfaceFontFamily": "Courier New",
+  "baseFontSize": 18,
+  "monospaceFontFamily": "Courier New",
+  "nativeMenus": false,
+  "enabledCssSnippets": []
+}

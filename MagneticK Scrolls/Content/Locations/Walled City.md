@@ -1,0 +1,2 @@
+- composite megastructure inspired by Kowloon Walled Cit
+	- ![[kowloon-walled-city-2.jpg]]

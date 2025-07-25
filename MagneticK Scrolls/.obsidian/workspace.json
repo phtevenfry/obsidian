@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "b438fb23142ed1cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1b13b9a1d6b621e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe3e7fed89d3c486",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Random Tables/Names.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Names"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92fa9ad38c3f23ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "48eeb462a42e8f03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e663854fd18bb8d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d8ab96c1c7f357f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9300b55a95f68512",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1f7c6c1a4a764bd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "71ceb0a15feb084d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d991c73edc80df72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Content/Dungeons/Prototype Interior MissingNo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Prototype Interior MissingNo"
+            }
+          },
+          {
+            "id": "9d79f145811c330f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Content/Dungeons/Prototype Interior MissingNo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Prototype Interior MissingNo"
+            }
+          },
+          {
+            "id": "baa6c1a09160cced",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "07e9ba5d496c3df6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Content/Dungeons/Prototype Interior MissingNo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Prototype Interior MissingNo"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fe3e7fed89d3c486",
+  "lastOpenFiles": [
+    "New note.md",
+    "Random Tables/Names.md",
+    "Content/Locations/EggTown.md",
+    "pendingSync-gdrive-plugin",
+    "Content/Locations/Rataways.md",
+    "Content/Locations/Walled City.md",
+    "Content/Locations/Location Index.md",
+    "Content/Locations/~index Dungeons.md",
+    "Content/Locations/Prototype Interior MissingNo.md",
+    "Content/Ways/Allway Projector.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Reference/Magic Ideas.md",
+    "Reference/Kpop Industry.md",
+    "Reference/AetherPunk.md",
+    "Content/Dungeons/Dungeons.md",
+    "Untitled",
+    "fTJZCp2.jpg",
+    "kowloon-walled-city-2.jpg",
+    "MMO Cyberspace.md",
+    "Welcome.md",
+    "Content/Realms/MMO Cyberspace.md",
+    "Reference/Urban Fantasy.md",
+    "Random Tables",
+    "Content/Realms/Halleu.md",
+    "Content/Locations",
+    "Content/Realms Index.md",
+    "2024-08-06.md",
+    "Content/Ways",
+    "Content",
+    "Reference",
+    "Untitled 1",
+    "Hallae History.canvas",
+    "Hallae PreHistory Option2.md",
+    "Hallae.md",
+    "Youngish Adult Groups/Ideas.md",
+    "Youngish Adult Groups",
+    "Hallae History1.canvas"
+  ]
+}

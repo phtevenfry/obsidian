@@ -1,0 +1,22 @@
+{
+  "ITS@@radius-s": 4,
+  "ITS@@scrollbar-width": 12,
+  "ITS@@ITS-Sizes": "sizing-readable",
+  "ITS@@s-d": false,
+  "ITS@@notion": false,
+  "ITS@@its-d": false,
+  "ITS@@t-d": false,
+  "ITS@@accent-color": true,
+  "ITS@@slrvb-b": false,
+  "ITS@@nord": false,
+  "ITS@@drwn": false,
+  "ITS@@select": "wotc-beyond",
+  "ITS@@slrvb-g": false,
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-teal",
+  "obsidian-prism-theme@@color-schemes-lt": "pt-color-scheme-periwinkle-lt",
+  "obsidian-prism-theme@@color-scheme-style-lt": "pt-color-scheme-style-two-tone-and-border-lt",
+  "obsidian-prism-theme@@accent-style-lt": "pt-accent-style-borderandfilled-lt",
+  "obsidian-prism-theme@@light-accent-color-preset": "pt-accent-color-cyan-lt",
+  "obsidian-prism-theme@@highlight-text-accent-lt": "pt-highlight-text-dark-lt"
+}

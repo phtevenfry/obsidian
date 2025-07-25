@@ -1,0 +1,51 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "GqML2pwgRJSNJ2mJya3dq",
+      "name": "",
+      "value": "#d00101"
+    },
+    {
+      "id": "49QcOshW9EYKe8VIPas-7",
+      "name": "",
+      "value": "#d66000"
+    },
+    {
+      "id": "mr_8VwaggYRSGjU3pUg0N",
+      "name": "",
+      "value": "#ffc800"
+    },
+    {
+      "id": "Uvnmy0B8STdZMLiNMBwav",
+      "name": "",
+      "value": "#38d100"
+    },
+    {
+      "id": "bICiE4nzXID8pknRrsJRL",
+      "name": "",
+      "value": "#00c291"
+    },
+    {
+      "id": "0lZwN2UVRUpOkoTNRRW0P",
+      "name": "",
+      "value": "#5489de"
+    },
+    {
+      "id": "CQd6DHXpu8g2QdDol-3dm",
+      "name": "",
+      "value": "#a63cd7"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Reference/Urban Fantasy.md",
+      "color": "GqML2pwgRJSNJ2mJya3dq"
+    },
+    {
+      "path": "Reference/Magic Ideas.md",
+      "color": "bICiE4nzXID8pknRrsJRL"
+    }
+  ]
+}
